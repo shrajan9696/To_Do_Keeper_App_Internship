@@ -6,6 +6,7 @@
 ## Delete
 ## Strike through
 ## Drag and Drop
+## Filter through charts
 
 # Teach Stack
 ## React
